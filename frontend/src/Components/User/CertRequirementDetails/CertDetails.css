@@ -1,0 +1,26 @@
+.mainDivCertDetails {
+    margin-left: 70px;
+    margin-top: 50px;
+    color: black;
+    height: 510px;
+}
+
+.requireList {
+    font-weight: bolder;
+}
+
+.reqHead {
+
+    margin-bottom: 50px;
+}
+
+.ApplyBtn {
+    color: white;
+    background-color: rgb(148, 122, 209);
+    text-decoration: none;border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 20px;
+
+
+}

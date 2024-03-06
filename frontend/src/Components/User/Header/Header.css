@@ -1,0 +1,21 @@
+.govLogo{
+    width: 50px;
+
+}
+
+.loginBtn{
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.logoutBtn{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 8px;
+}

@@ -1,0 +1,21 @@
+.ViewAppliedCertMainpage{
+    padding-top: 40px;
+    padding-left: 90px;
+    padding-right: 20px;
+}
+
+
+.viewAppliedCert{
+    width: 100%;
+    height: 70px;
+    margin-top: 20px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 18px;
+}
+
+.dateView{
+    padding-right: 20px;
+}

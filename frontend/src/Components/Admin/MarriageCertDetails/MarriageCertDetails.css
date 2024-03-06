@@ -1,0 +1,51 @@
+.mainMarriageCert{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.husbandImg{
+    width: 200px;
+    margin: 30px;
+}
+
+.husbandAddressProof{
+    width: 400px;
+    margin: 30px;
+}
+
+.certificateInfo {
+    width: 90%;
+    border-collapse: collapse; /* Collapse borders so adjacent cells share borders */
+  }
+  
+  .certificateInfo th,
+  .certificateInfo td {
+    border: 1px solid #ddd; /* Add a 1px solid border to table cells */
+    padding: 8px; /* Add padding to improve cell readability */
+    text-align: left; /* Align text to the left within cells */
+  }
+  
+
+
+  .firstPart{
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .rightSideFirstPart{
+    margin-right: 140px;
+  }
+
+  .verfyBtn{
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
+  .btnDiv{
+    width: 90%;
+    display: flex;
+    justify-content: end;
+    margin-top: 30px;
+  }

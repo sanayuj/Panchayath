@@ -1,0 +1,38 @@
+
+.ViewMarriageCertMainDivOne{
+    margin-left: 0;
+    margin-top: 70px;
+}
+.certHeading{
+font-weight:900;
+margin-bottom: 20px;
+}
+
+.rulePara{
+    font-size:medium;
+    font-weight:200;
+}
+
+.govImageLogo{
+    width: 140px;
+}
+
+/* .certHeading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+
+  
+  .centerContent {
+    text-align: center;
+  }
+  
+
+  .bottomPart{
+
+    margin:10px;
+  } */

@@ -1,0 +1,15 @@
+.paymentMainDiv{
+    margin-left:70px ;
+    margin-top: 20px;
+    height: 510px;
+}
+
+.paymentContent{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.method{
+    display: flex;
+}

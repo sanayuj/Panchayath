@@ -1,0 +1,19 @@
+.certStatusMainDiv{
+    margin: 40px;
+    height: 510px;
+}
+
+.certDetailsDiv{
+    width: 100%;
+    height: 60px;
+    background-color:#d0e2ff;
+    border-radius: 5px;
+    display: flex;
+    padding: 12px;
+    justify-content: space-between;
+}
+
+.statusCertName{
+    display: flex;
+    
+}

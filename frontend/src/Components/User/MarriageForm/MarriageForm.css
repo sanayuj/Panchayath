@@ -1,0 +1,25 @@
+.formbold-main-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .formbold-form-wrapper {
+    width: 45%;
+  }
+  
+  .formbold-input-flex {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Additional styling for responsiveness */
+  @media (max-width: 768px) {
+    .formbold-main-wrapper {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .formbold-form-wrapper {
+      width: 80%; /* Adjust the width for smaller screens */
+    }
+  }
